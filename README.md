@@ -278,7 +278,7 @@
       "description": "a Hogake Hats",
       "status": "Dark",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078303566659321936/647528.pngh"
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078303566659321936/647528.png"
     },
 
 
